@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#current">Current</a></li>
+                <li><a href="#work">Work</a></li>
+                <li><a href="#cv">CV</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="current">
+        <h2>Current</h2>
+        <p>This is where you describe your current work, project, or status.</p>
+    </section>
+
+    <section id="work">
+        <h2>Work</h2>
+        <p>This is where you can showcase your past work or professional experience.</p>
+    </section>
+
+    <section id="cv">
+        <h2>CV</h2>
+        <p>This is where you can provide a link to your CV or upload it as a file.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Your Name. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
